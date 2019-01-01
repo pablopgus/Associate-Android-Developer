@@ -1,1 +1,1 @@
-include ':app', ':011_helloworld', ':012a_interactiveui'
+include ':app', ':011_helloworld', ':012a_interactiveui', ':013_textscrollingview'

@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/011_helloworld" />
             <option value="$PROJECT_DIR$/012a_interactiveui" />
+            <option value="$PROJECT_DIR$/013_textscrollingview" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
